@@ -7,6 +7,7 @@ check/install
 
 <h2>İlham Kaynakları</h2>
 
+ Etik Hacker'lık İleri Seviye - Ice: 2 - CVE Detayları // https://www.youtube.com/watch?v=AIc9hgf7cIs
 
 https://www.youtube.com/watch?v=Ur4KGaC2iVs
 <br>
